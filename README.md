@@ -1,4 +1,4 @@
-# gradeprediction
+# Grade Prediction
  Grade Prediction - Azure, databricks, notebook
 
 **Predictive Analysis of School Performance**
