@@ -44,4 +44,6 @@ To replicate this project, follow these steps:
 * Copy the source code from the `databricksnotebook.ipynb` notebook (this file) and run the cells. Be sure to fill in your Azure credentials.
 * Note: The notebook requires you to insert your own Azure credentials to run, such as the SAS token. The credentials are not included in the code for security reasons.
 
+* In the screenshots folder you will find the project screenshots
+
 
