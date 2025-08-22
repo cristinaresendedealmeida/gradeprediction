@@ -26,7 +26,7 @@ The project followed a structured workflow to ensure that the analysis and the m
 
 **3. Insights and Impact**
 
-The data analysis revealed that study time, previous exam performance, and absences are the main factors influencing a student's final performance. The ability to predict a student's final grade can have a significant impact on educational strategies, allowing UNICEF teams to:
+The data analysis revealed that study time, previous exam performance, and absences are the main factors influencing a student's final performance. The ability to predict a student's final grade can have a significant impact on educational strategies, allowing teams to:
 
 * **Identify At-Risk Students:** The model can be used to proactively identify students who are at risk of low performance.
 * **Optimize Interventions:** The analysis of risk factors can inform decision-making on where to allocate resources for support programs.
