@@ -39,6 +39,6 @@ To replicate this project, follow these steps:
 * Download the `student-mat.csv` file.
 * Create a storage account in Azure Blob Storage and upload the file.
 * Create a workspace in Azure Databricks.
-* Copy the source code from the `predictive_model.ipynb` notebook (this file) and run the cells. Be sure to fill in your Azure credentials.
+* Copy the source code from the `databricksnotebook.ipynb` notebook (this file) and run the cells. Be sure to fill in your Azure credentials.
 
 
