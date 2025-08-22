@@ -1,5 +1,5 @@
-# Grade Prediction
- Grade Prediction - Azure, databricks, notebook
+# Predictive Analysis of School Performance
+An end-to-end data science pipeline using Azure Databricks.
 
 **Predictive Analysis of School Performance**
 
