@@ -14,6 +14,8 @@ This project was built using the following tools and technologies:
 * **Cloud Data Management:** Azure Blob Storage
 * **Analytics and Machine Learning:** Azure Databricks (using Python)
 * **Programming Language:** Python (with libraries such as `pandas`, `scikit-learn`)
+* **Visualization and Business Intelligence:** Power BI (Conceptual)
+* **Workflow Management:** Atlassian - Jira and Confluence (Conceptual)
 
 **2. Methodology and Workflow**
 
@@ -40,5 +42,6 @@ To replicate this project, follow these steps:
 * Create a storage account in Azure Blob Storage and upload the file.
 * Create a workspace in Azure Databricks.
 * Copy the source code from the `databricksnotebook.ipynb` notebook (this file) and run the cells. Be sure to fill in your Azure credentials.
+* Note: The notebook requires you to insert your own Azure credentials to run, such as the SAS token. The credentials are not included in the code for security reasons.
 
 
